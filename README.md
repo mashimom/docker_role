@@ -4,7 +4,7 @@ Role to install Docker and Docker Compose on an Ubuntu box
 
 ## Requirements
 
-After downloading the role use the url on `atom/files/atom.deb.download` to download the installer and make sure its name matches the variable `ATOM_BUNDLE`.
+The target box has to be a x64 Linux, required by Docker.
 
 ##Role Variables
 
